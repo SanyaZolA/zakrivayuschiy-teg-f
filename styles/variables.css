@@ -1,1 +1,13 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
+:root {
+  --width-clamp: clamp(375px, 50%, 696px);
+  --font-PressStart2P: 'PressStart2P';
+  --font-PressStart2p-line-height: normal;
+  --font-pressStart2p-text-transform: uppercase;
+  --font-Inter-Variable: 'Inter-Variable';
+  --display-flex: flex;
+  --flex-direction: column;
+  --align-items: center;
+  --font-weight-inter: 785;
+} 
