@@ -419,7 +419,7 @@ img {
 }
 
 .filter-saturate {
-  filter: saturate(200%), contrast(175%), brightness(3%);
+  filter: saturate(200%) contrast(175%) brightness(3%);
 }
 
 .filter-invert {
