@@ -14,8 +14,7 @@
 
 */
 
-
-.background__color { 
+.background__color {
   background-color: var(--background-color);
 }
 
@@ -153,7 +152,6 @@ button {
   max-inline-size: 696px;
   margin-bottom: 54px;
   padding-bottom: 25px;
-  border: 2px solid var(--text-color);
 }
 
 .card__title {
@@ -162,7 +160,7 @@ button {
   font-size: 18px;
   font-style: normal;
   font-weight: var(--font-weight-inter);
-  line-height: normal; 
+  line-height: normal;
 }
 
 img {
@@ -285,7 +283,7 @@ img {
   text-transform: var(--font-pressStart2p-text-transform);
   line-height: var(--font-PressStart2p-line-height);
   font-size: 14px;
-  position: relative; 
+  position: relative;
 }
 
 .card__like-button:focus-visible {
@@ -410,7 +408,7 @@ img {
 }
 
 .filter-grayscale {
-  filter: grayscale(80%);
+  filter: grayscale(100%);
 }
 
 .filter-multiple {
@@ -418,11 +416,11 @@ img {
 }
 
 .filter-blur {
-  filter: blur(20px);
+  filter: blur(10px);
 }
 
 .filter-rotate {
-  filter: rotate(90deg);
+  filter: hue-rotate(180deg);
 }
 
 .filter-saturate {
@@ -434,7 +432,7 @@ img {
 }
 
 
-@media (width <= 375px){
+@media (width <= 375px) {
   .header {
     width: 100%;
   }
