@@ -22,7 +22,7 @@
   min-inline-size: 320px;
   min-block-size: 100dvb;
   font-family: var(--title-font), var(--basic-font);
-  font-variation-settings:  var(--text-variable-weight);
+  font-variation-settings: 'wght' var(--text-variable-weight);
   font-size: 18px;
   color: var(--text-color);
   background-image: var(--background-image);
@@ -168,7 +168,7 @@
 
 .main {
   width: var(--width-clamp);
-  font-variation-settings: var(--text-variable-weight);
+  font-variation-settings: 'wght' var(--text-variable-weight);
   line-height: 116.667%;
 }
 
@@ -190,7 +190,7 @@
   display: block;
   padding-inline-start: 10px;
   padding-block: 5px;
-  font-variation-settings: var(--text-variable-weight);
+  font-variation-settings: 'wght' var(--text-variable-weight);
   position: relative;
 }
 
