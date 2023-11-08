@@ -15,6 +15,7 @@
                       repeating-linear-gradient(to bottom, #000 0 2px, transparent 2px 4px),
                       linear-gradient(to bottom, #007F0C, #004306);
   --text-variable-weight: 785;
+  --basictext-variable-weight: 465;
 
 }
 @media (prefers-color-scheme: dark) {
@@ -28,6 +29,7 @@
                       repeating-linear-gradient(to bottom, #000 0 2px, transparent 2px 4px),
                       linear-gradient(to bottom, #007F0C, #004306);
     --text-variable-weight: 785;
+    --basictext-variable-weight: 465;
   }
 }
 
@@ -41,6 +43,7 @@
                       repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
                       linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
   --text-variable-weight: 700;
+  --basictext-variable-weight: 400;
 }
 
 @media (prefers-color-scheme: light) {
@@ -54,5 +57,6 @@
                         repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
                         linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
     --text-variable-weight: 700;
+    --basictext-variable-weight: 400;
   }
 }
