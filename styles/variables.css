@@ -2,12 +2,14 @@
 
 :root {
   --width-clamp: clamp(375px, 50%, 696px);
-  --font-PressStart2P: 'PressStart2P';
-  --font-PressStart2p-line-height: normal;
-  --font-pressStart2p-text-transform: uppercase;
-  --font-Inter-Variable: 'Inter-Variable';
-  --display-flex: flex;
+  --main-font: 'PressStart2P';
+  --title-font: 'Inter';
+  --basic-font: sans-serif;
+  --font-main-line-height: normal;
+  --font-main-text-transform: uppercase;
+  --font-Inter-Variable: 'Inter';
   --flex-direction: column;
   --align-items: center;
-  --font-weight-inter: 785;
+  --heart-core: none;
+  --color-sparks: #FF0000;
 } 
