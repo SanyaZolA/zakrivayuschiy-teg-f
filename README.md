@@ -1,4 +1,4 @@
-# Проект "Проект закрытый тег F"
+# Проект "Закрытый тег F"
 
 [Демо-страница](https://sanyazola.github.io/zakrivayuschiy-teg-f/)
 
