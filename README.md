@@ -1,3 +1,17 @@
-# zakrivayuschiy-teg-f Проект "Проект закрытый тег ф" 
-https://github.com/SanyaZolA/zakrivayuschiy-teg-f.git
-https://sanyazola.github.io/zakrivayuschiy-teg-f/
+# Проект "Проект закрытый тег F"
+
+[Демо-страница](https://sanyazola.github.io/zakrivayuschiy-teg-f/)
+
+![Главная страница](./images/TegF.jpg)
+
+Проект демонстрирует работу изменения цветовой темы и интерактивной кнопкой **Like**.
+
+## Описание
+
+- Поддержка смены цветовой темы (светлая / тёмная / auto).
+- Кнопка **Like**, которая реагирует на клики и меняет состояние.
+
+## Установка
+1. Клонирование репозитория
+2. npm i
+
